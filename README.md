@@ -1,5 +1,7 @@
 # OSC Watch Linux
 
+## OSC Watch has been superseded by [VRC OSC Manager](https://github.com/DASPRiD/vrc-osc-manager)!
+
 This application a client implementation of the OSC sender component for the
 [OSC Watch VRChat accessory](https://booth.pm/en/items/3687002) aimed towards Linux users. It implements the same
 functionality as the original application minus the functionality of toggling the Discord microphone.
